@@ -10,5 +10,5 @@ Create a script that ask with an alert if the user is ready to start. Then print
 .
 .
 .
-´´´
+```
 
